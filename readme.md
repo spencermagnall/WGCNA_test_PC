@@ -2,7 +2,7 @@
 
 Co-expression analysis of TCGA-PRAD primary prostate tumours, relating gene modules to Gleason grade group (GG1–GG5). 
 
-See `writeup.md` for writeup and plots. 
+See `WGCNA_notes.md` for writeup and plots. 
 
 ## Requirements
 
